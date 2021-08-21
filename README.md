@@ -1,2 +1,2 @@
 # 2017_14BIT_GroupB_OnlinePMTools
-Repository chứa Seminar của nhóm B, ITEC, môn Project Management năm 2017
+Repository of Group B, including Seminar Files, Project Management class 2017 at AUT.
